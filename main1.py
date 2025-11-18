@@ -2,6 +2,8 @@ number1 = float(input("Веддіть число "))
 action = input("Веддіть дію ")
 number2 = float(input("Веддіть число "))
 
+result = None
+
 if action == "+":
 	result = number1 + number2
 elif action == "-":
