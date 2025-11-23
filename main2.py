@@ -1,4 +1,4 @@
-lst1 = []
+lst1 = [2, 32, 1, 9, 0, 2, 7, 21]
 
 if not len(lst1) == 0:
 	x = lst1.pop()
