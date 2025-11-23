@@ -1,6 +1,6 @@
-lst1 = [2, 32, 1, 9, 0, 2, 7, 21]
+lst1 = []
 
-if len(lst1) > 0:
+if not len(lst1) == 0:
 	x = lst1.pop()
 	lst1 = [x] + lst1
 
